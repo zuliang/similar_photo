@@ -1,0 +1,7 @@
+Resources: 
+[f4c4c0c0f0888c07, ffff008cfcfcfcff, 7f7f004f7f7f7c7f, 7f7f004f7f7f7c7f, 7f7f004f7f7f7c7f]
+
+Source: 
+7f7f004f7f7f7c7f
+
+[14, 10, 0, 0, 0]
